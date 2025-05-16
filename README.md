@@ -1,7 +1,7 @@
 #  Supplement Sales Data Analysis (2020–2025)
 
 ![Image](https://github.com/user-attachments/assets/cb3d7134-c8bd-474f-ac19-3ff638dc39ba)
-
+## Introduction
 This project presents an in-depth analysis of weekly supplement sales data between 2020 and 2025. The analysis explores revenue trends, product category performance, platform comparisons, and how price, discount, and units sold affect revenue using Excel (with Power Pivot and regression tools) and Power BI.
 
 ---
