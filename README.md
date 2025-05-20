@@ -148,6 +148,6 @@ The model explains 99.37% of the variation in revenue. Units sold and price are 
 
 ##  Conclusion
 
-This project delivers a comprehensive analysis of supplement sales across different platforms and regions, with insights into revenue patterns and the underlying drivers of performance. Both Excel (including Power Pivot and regression) and Power BI were used to present visual and statistical findings.
+This project delivers a comprehensive analysis of supplement sales across different platforms and regions, with insights into revenue patterns and the underlying drivers of performance. Both Excel (including Power Pivot and regression) and Power BI were used to present visual and statistical findings. You can reach me via email (felicityjessica.fj@gmail.com) or via Linkedin or Facebook @ (Felicity Jessica)
 
 ---
